@@ -12,4 +12,5 @@ func main() {
 			break
 		}
 	}
+	fmt.Println("Ini coba stash")
 }
