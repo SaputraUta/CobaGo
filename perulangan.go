@@ -14,4 +14,5 @@ func main() {
 	}
 	fmt.Println("Ini coba stash")
 	fmt.Println("Ini coba stash lokal")
+	fmt.Println("perubahan2")
 }
